@@ -1,2 +1,2 @@
 # EduTree
-Eduction Hub of India
+Education Hub of India
